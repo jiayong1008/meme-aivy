@@ -1,5 +1,5 @@
-import { TopNav, Welcome, Nav, About, Experience, Services, 
-        Portfolio, Testimonials, Contact, Footer } from './components'
+import { TopNav, Welcome, Nav, About, Experience, 
+  Testimonials, Contact, Footer } from './components'
 
 const App = () => {
   return (
@@ -9,8 +9,6 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
-      <Services />
-      <Portfolio />
       <Testimonials />
       <Contact />
       <Footer />

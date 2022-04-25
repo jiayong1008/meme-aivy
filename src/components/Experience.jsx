@@ -19,25 +19,24 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>废 skills</h3>
           <div className="experience__content">
-            <ExperienceDetail title="HTML, CSS" proficiency="Advanced" />
-            <ExperienceDetail title="JavaScript" proficiency="Intermediate" />
-            <ExperienceDetail title="Bootstrap" proficiency="Intermediate" />
-            <ExperienceDetail title="Tailwind" proficiency="Basics" />
-            <ExperienceDetail title="React" proficiency="Intermediate" />
-            <ExperienceDetail title="Flutter" proficiency="Basics" />
+            <ExperienceDetail title="Sleep" proficiency="Advanced" />
+            <ExperienceDetail title="Eat" proficiency="Intermediate" />
+            <ExperienceDetail title="Play" proficiency="Intermediate" />
+            <ExperienceDetail title="Kind" proficiency="None" />
+            <ExperienceDetail title="Giraffe" proficiency="Intermediate" />
           </div>
         </div>
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Serious Skills</h3>
           <div className="experience__content">
-            <ExperienceDetail title="Solidity" proficiency="Intermediate" />
-            <ExperienceDetail title="PHP Laravel" proficiency="Intermediate" />
-            <ExperienceDetail title="Python Django" proficiency="Intermediate" />
-            <ExperienceDetail title="Python Flask" proficiency="Intermediate" />
-            <ExperienceDetail title="SQL" proficiency="Intermediate" />
+            <ExperienceDetail title="I" proficiency="Intermediate" />
+            <ExperienceDetail title="Don't" proficiency="Intermediate" />
+            <ExperienceDetail title="Know" proficiency="Intermediate" />
+            <ExperienceDetail title="Sial" proficiency="Intermediate" />
+            <ExperienceDetail title="Lmao" proficiency="Intermediate" />
           </div>
         </div>
       </div>

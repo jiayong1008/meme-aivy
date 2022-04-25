@@ -14,23 +14,23 @@ import 'swiper/css/pagination';
 const testimonials = [ // Testimonial data
 	{
 		avatar: avatar1,
-		name: 'Client Name 1',
-		review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae accusamus itaque quas in aliquid sunt magnam placeat aperiam nemo quaerat rem quia, reiciendis odit ullam unde sequi inventore quam impedit.',
+		name: 'lim jy',
+		review: 'Anyone interested in developing a weird weird or serious web pg for ur bf gf family friends uncle aunties come find me o, i hlp u build, u juz gimme feedback will do. tenks bro sis uncle aunties. Enjoy ur day',
 	}, 
 	{
 		avatar: avatar2,
-		name: 'Client Name 2',
-		review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae accusamus itaque quas in aliquid sunt magnam placeat aperiam nemo quaerat rem quia, reiciendis odit ullam unde sequi inventore quam impedit.',
+		name: 'Aivy Friend 2',
+		review: 'Giraffe is a cool person, her aim is to reach 190cm by next year. I support her. Giraffe is a cool person, her aim is to reach 190cm by next year. I support her.',
 	}, 
 	{
 		avatar: avatar3,
-		name: 'Client Name 3',
-		review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae accusamus itaque quas in aliquid sunt magnam placeat aperiam nemo quaerat rem quia, reiciendis odit ullam unde sequi inventore quam impedit.',
+		name: 'Aivy Friend 3',
+		review: 'Giraffe is a cool person, her aim is to reach 190cm by next year. I support her. You should too. Giraffe is a cool person, her aim is to reach 190cm by next year. I support her.',
 	}, 
 	{
 		avatar: avatar4,
-		name: 'Client Name 4',
-		review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae accusamus itaque quas in aliquid sunt magnam placeat aperiam nemo quaerat rem quia, reiciendis odit ullam unde sequi inventore quam impedit.',
+		name: 'Aivy Friend 4',
+		review: 'Giraffe is a cool person, her aim is to reach 190cm by next year. I support her. You should too. Giraffe is a cool person, her aim is to reach 190cm by next year. I support her.',
 	}, 
 ];
 
